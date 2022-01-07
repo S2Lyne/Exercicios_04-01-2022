@@ -1,8 +1,11 @@
+import 'dart:io';
 import 'dart:math';
 
 void main(List<String> args) {
-  final a = 15;
-  final b = 15;
+  print('Digite o primeiro lado do quadrado');
+  int? a = int.parse(stdin.readLineSync()!);
+  print('Digite o segundo lado do quadrado');
+  int b = int.parse(stdin.readLineSync()!);
   num quadrado = 0;
 
   /* if (a == b) {

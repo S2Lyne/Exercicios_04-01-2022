@@ -11,6 +11,7 @@ Entrada:
   Nome de cada jogador.
   Quantidade de saques, bloqueios e ataques.
   Quantidade de saques, bloqueios e ataques que tiveram sucesso.
+  
 Saída:
   A saída deve conter o nome de cada jogador;
   seguido do percentual de saques, bloqueios  e ataques;
