@@ -22,11 +22,11 @@ Casos de Testes:
 Entrada:
 Nome	Saques	Saques efetivos	Bloqueios	Bloqueios efetivos	Ataques	Ataques efetivos
 Maurício	8	4	18	12	2	1
-Marcelo	15	10	8	5	21	10
+Marcelo	15	10	8	5	21	18
 Tande	11	6	14	12	15	11
 Giovane	11	5	10	8	18	12
 Paulo	9	2	15	12	15	10
-Carlos	10	3	10	3	12	8
+Carlos	10	3	10	8	12	8
 Saída:
 Jogador: Maurício
 Saque: 4/8 (50.0%)
