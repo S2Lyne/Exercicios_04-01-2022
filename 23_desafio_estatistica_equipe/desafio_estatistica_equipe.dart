@@ -94,7 +94,7 @@ void main(List<String> args) {
   print(' Pontos de Bloqueio: $tBloqueioEf/$tBloqueio (' +
       pontosTotalB.toStringAsFixed(1) +
       '%)');
-  print(' Pontos de Bloqueio: $tAtaquesEf/$tAtaques (' +
+  print(' Pontos de Ataque: $tAtaquesEf/$tAtaques (' +
       pontosTotalA.toStringAsFixed(1) +
       '%)');
 
